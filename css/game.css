@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: rgba(232,148,75,1);
+    background: linear-gradient(to right, rgba(232,148,75,1) 0%, rgba(240,159,19,1) 100%);
+}
+
+#gameArea {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#canvas {
+    width: 95%;
+    height: 95%;
+}
+#gameHeader{
+    width:95%;
+    height:10%;
+}
+
+
+h3{
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    color: #a55900;
+    font-size: 2em;
+}
